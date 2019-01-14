@@ -1,3 +1,2 @@
-"var" = 2
-
-puts 1 + "is the loneliest number"
+var = 1
+puts var + "is the loneliest number"
