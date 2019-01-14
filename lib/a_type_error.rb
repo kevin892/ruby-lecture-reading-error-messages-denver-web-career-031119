@@ -1,3 +1,3 @@
-1 + 1
+var = 1 + 1
 
-1 + "is the loneliest number"
+var = 1 + "is the loneliest number"
